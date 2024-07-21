@@ -1,0 +1,11 @@
+{
+    "s3": {
+      "name": "975050225829-autoterra",
+      "region": "eu-central-1",
+      "Block all public access": true,
+      "Bucket versioning": false,
+      "Encryption type": "Server-side encryption with Amazon S3 managed keys (SSE-S3)",
+      "Bucket key": "Enabled"
+    }
+  }
+  
